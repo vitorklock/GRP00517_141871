@@ -2,3 +2,5 @@
 
 
 Esse repositório centraliza as atividades realizadas na aula de Programação para Ciência de Dados.
+
+Seja bem vindo 😎
